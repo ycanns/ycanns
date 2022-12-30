@@ -5,6 +5,10 @@
 ![Build Status](https://img.shields.io/cran/l/dplyr?color=green&label=R&logo=R)
 ![Build Status](https://img.shields.io/pypi/pyversions/pandas?color=lightgrey&label=mapboxgl&logo=Mapbox)
 ![Build Status](https://img.shields.io/cran/v/leaflet?color=green&label=leaflet&logo=leaflet)
+![Build Status](https://img.shields.io/badge/PostSQL-PostSQL?color=brightgreen&logo=PostgreSQL)
+![Build Status](https://img.shields.io/badge/VBA-VBA?color=yellow&logo=C)
+![Build Status](https://img.shields.io/badge/Qgis-Qgis?color=green&logo=Qgis)
+![Build Status](https://img.shields.io/badge/Jupyter-Jupyter?color=white&logo=Jupyter)
 
 ### _Ph.D. in Transportation Engineering + AI + Data Science_<br><br> I'm Associate Research Fellow in KRIHS, S.Korea. I'm at KRIHS DataLab., | Geospatial Analytics & Monitoring Center and I'm also serving additional role at OECD Geospatial Laboratory Workstream #5. 
 ### I have more than TEN years professional research experiences in the area of Machine learning, Social Science, Transportation Data Analytics, Modeling in conjunction with Intelligent Transportation (ITS) area including Transportation Planning, Operations, and Data Visualizations. Several multidisciplinary and interdisciplinary collaborative experiences to not only Transportation domain but also Computer Science, Social Science, GIS domains embrace my capabilities.
