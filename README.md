@@ -1,16 +1,18 @@
-### Hi there 👋
-
-# My name is Yohan Chang
-![Build Status](https://img.shields.io/pypi/pyversions/pandas?label=python&logo=python)
-![Build Status](https://img.shields.io/cran/l/dplyr?color=green&label=R&logo=R)
-![Build Status](https://img.shields.io/pypi/pyversions/pandas?color=lightgrey&label=mapboxgl&logo=Mapbox)
-![Build Status](https://img.shields.io/cran/v/leaflet?color=green&label=leaflet&logo=leaflet)
-![Build Status](https://img.shields.io/badge/PostSQL-PostSQL?color=brightgreen&logo=PostgreSQL)
+### Hi there 👋<br><br> My name is,
+# Yohan Chang
+![Build Status](https://img.shields.io/badge/python-python?color=9cf&logo=python)
+![Build Status](https://img.shields.io/badge/R-R?color=lightblue&logo=R)
+![Build Status](https://img.shields.io/badge/Octave-Octave?color=yellowgreen&logo=Octave)
 ![Build Status](https://img.shields.io/badge/VBA-VBA?color=yellow&logo=C)
 ![Build Status](https://img.shields.io/badge/Qgis-Qgis?color=green&logo=Qgis)
+![Build Status](https://img.shields.io/badge/Mapbox-Mapbox?color=black&logo=Mapbox)
+![Build Status](https://img.shields.io/badge/leaflet-leaflet?color=green&logo=leaflet)
+![Build Status](https://img.shields.io/badge/Folium-Folium?color=yellow&logo=Folium)
+![Build Status](https://img.shields.io/badge/PostSQL-PostSQL?color=brightgreen&logo=PostgreSQL)
 ![Build Status](https://img.shields.io/badge/Jupyter-Jupyter?color=white&logo=Jupyter)
+![Build Status](https://img.shields.io/badge/Markdown-Markdown?color=lightgrey&logo=Markdown)
 
-### _Ph.D. in Transportation Engineering + AI + Data Science_<br><br> I'm Associate Research Fellow in KRIHS, S.Korea. I'm at KRIHS DataLab., | Geospatial Analytics & Monitoring Center and I'm also serving additional role at OECD Geospatial Laboratory Workstream #5. 
+### _Ph.D. in Transportation Engineering + AI + Data Science_<br><br> I'm Associate Research Fellow in KRIHS, S.Korea. I'm working for KRIHS DataLab., | Geospatial Analytics & Monitoring Center and I'm also serving additional role at OECD Geospatial Laboratory Workstream #5. 
 ### I have more than TEN years professional research experiences in the area of Machine learning, Social Science, Transportation Data Analytics, Modeling in conjunction with Intelligent Transportation (ITS) area including Transportation Planning, Operations, and Data Visualizations. Several multidisciplinary and interdisciplinary collaborative experiences to not only Transportation domain but also Computer Science, Social Science, GIS domains embrace my capabilities.
 #### Most recent five projects and publications incorporated with ; 
 - Machine Learning: Neural network, Random forest, t-SNE, Deep Neural Network; 
