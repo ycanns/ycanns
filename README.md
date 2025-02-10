@@ -12,9 +12,10 @@
 ![Build Status](https://img.shields.io/badge/Jupyter-Jupyter?color=white&logo=Jupyter)
 ![Build Status](https://img.shields.io/badge/Markdown-Markdown?color=lightgrey&logo=Markdown)
 
-### _Ph.D. in Transportation Engineering + AI + Data Science_<br><br> I'm Associate Research Fellow in KRIHS, S.Korea. I'm working for KRIHS DataLab., | Geospatial Analytics & Monitoring Center and I'm also serving additional role at OECD Geospatial Laboratory Workstream #5. 
-### I have more than TEN years professional research experiences in the area of Machine learning, Social Science, Transportation Data Analytics, Modeling in conjunction with Intelligent Transportation (ITS) area including Transportation Planning, Operations, and Data Visualizations. Several multidisciplinary and interdisciplinary collaborative experiences to not only Transportation domain but also Computer Science, Social Science, GIS domains embrace my capabilities.
-#### Most recent five projects and publications incorporated with ; 
+### _Ph.D. in Transportation Engineering + AI + Data Science_<br><br> I'm Associate Research Fellow in KRIHS, S.Korea. I'm working for Smart Infrastructure Research Center, | National Infrastructure & Geospatial Information Research Division and I'm also serving additional role at OECD Geospatial Laboratory Workstream #5. 
+### I have more than TEN years professional research experiences in the area of Machine learning, Social Science, Big Data Analytics, Modeling in conjunction with Intelligent Transportation (ITS) area including Transportation Planning, Operations, and Data Visualizations. Several multidisciplinary and interdisciplinary collaborative experiences to not only Transportation domain but also Computer Science, Social Science, GIS domains embrace my capabilities.
+#### Most recent projects and publications incorporated with ; 
+- Data-driven social science research domains, policy supports, data-fusion/integration, and GeoAI; 
 - Machine Learning: Neural network, Random forest, t-SNE, Deep Neural Network; 
 - Big Data Analysis/ Visualizations using several programming languages 
 - Naturalistic Driving Study (NDS) data 
