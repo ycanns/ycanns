@@ -20,7 +20,7 @@
 ## 🧠 About Me
 
 My name is <b><a href="https://www.krihs.re.kr/organization/view.es?mid=a20505010200&org_cd=1000006&seq=3429" target="_blank">Yohan Chang</a></b>, Ph.D. in Transportation Engineering (AI / Big Data / Visualization).<br><br>
-I am an Associate Research Fellow at the Smart Infrastructure Research Center, part of the National Infrastructure & Geospatial Information Research Division at <b>KRIHS</b> (Korea Research Institute for Human Settlements).
+I am an Associate Research Fellow at the Mobility & AI Convergence Research Center, part of the Geospatial & Infrastructure Research Division at <b>KRIHS</b> (Korea Research Institute for Human Settlements).
 Since 2022, I’ve been supporting <b><a href="https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html" target="_blank">OECD Geospatial Lab</a></b> Workstream #5.
 In addition, I serve as:
 - A committee member of the <b>Digital Division</b> in the <b><a href="https://www.innovation.go.kr/ucms/main/contents.do?menuNo=300209&tabNo=2" target="_blank">Open Government Partnership (OGP)</a></b> <i>(hosted by MoIS<sup>*</sup>)</i><br>
@@ -33,9 +33,9 @@ With over 15 years of diverse experience in <b>AI, Data Analytics, Data Science,
 <summary><b>[🇰🇷 한글 소개 보기]</b></summary>
 <br/>
 <p style="font-size: 90%; color: #566573;">
-안녕하세요! 저는 국토연구원(KRIHS) 국토인프라·공간정보연구본부의 스마트인프라연구센터에서 다양한 연구를 수행하고 있는 장요한입니다.<br><br>
+안녕하세요! 저는 국토연구원(KRIHS) 미래국토공간·인프라연구본부의 모빌리티·AI융복합연구센터에서 다양한 연구를 수행하고 있는 장요한입니다.<br><br>
 2022년부터는 <a href="https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html" target="_blank">OECD Geospatial Lab</a> Workstream #5 활동에 참여하고 있으며, 
-<a href="https://www.innovation.go.kr/en/main.do/" target="_blank">대한민국 열린정부위원회</a> 제4기 민간위원(디지털분과)으로도 활동 중입니다.
+<a href="https://www.innovation.go.kr/en/main.do/" target="_blank">대한민국 열린정부위원회</a> 제4·5기 민간위원(디지털분과)으로도 활동 중입니다.
 또한, 행정안전부 주관의 민관합동 데이터분석협의체에서도 민간위원으로 참여하고 있습니다. 저는 15년 이상의 AI, 데이터 분석, 데이터 사이언스 경험을 바탕으로, ITS, GeoAI, 시각화, 정책 기반 모델링 등의 분야에서 융합적 연구와 협업을 이어가고 있습니다.
 </p>
 </details>
