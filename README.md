@@ -20,7 +20,7 @@
 ## 🧠 About Me
 
 My name is <b><a href="https://www.krihs.re.kr/organization/view.es?mid=a20505010200&org_cd=1000006&seq=3429" target="_blank">Yohan Chang</a></b>, Ph.D. in Transportation Engineering (AI / Big Data / Visualization).<br><br>
-I am an Associate Research Fellow at the Mobility & AI Convergence Research Center, part of the Geospatial & Infrastructure Research Division at <b>KRIHS</b> (Korea Research Institute for Human Settlements).
+I am a Research Fellow at the Mobility & AI Convergence Research Center, part of the Geospatial & Infrastructure Research Division at <b>KRIHS</b> (Korea Research Institute for Human Settlements).
 Since 2022, I’ve been supporting <b><a href="https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html" target="_blank">OECD Geospatial Lab</a></b> Workstream #5.
 In addition, I serve as:
 - A committee member of the <b>Digital Division</b> in the <b><a href="https://www.innovation.go.kr/ucms/main/contents.do?menuNo=300209&tabNo=2" target="_blank">Open Government Partnership (OGP)</a></b> <i>(hosted by MoIS<sup>*</sup>)</i><br>
