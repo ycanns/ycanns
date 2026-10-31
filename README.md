@@ -78,6 +78,7 @@ Explore selected public outputs from my research and data storytelling. Click an
 
 - **[Migration Networks & Centrality](https://github.com/ycanns/KRIHS_Magazines/tree/master/Information/2024/Feb)** — Interpreting regional migration through graph theory and centrality measures.
 - **[Big Data Stories for Territorial Policy](https://github.com/ycanns/Graphs)** — Interactive visualizations accompanying the monthly KRIHS magazine.
+- **[Big Data Stories for Territorial Policy (contn)](https://github.com/ycanns/KRIHS_Magazines)** — Interactive visualizations accompanying the monthly KRIHS magazine.
 
 </details>
 
