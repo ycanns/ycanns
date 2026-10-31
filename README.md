@@ -1,102 +1,135 @@
-<h3>Hi there 👋</h3>
 <h1>I'm Yohan Chang</h1>
 
+**GeoAI & Spatiotemporal Modeling | Urban & Regional Policy | Mobility & Accessibility**
+
+I connect AI and spatial data with public-policy questions—and turn analytical results into maps, models, and tools people can use.
+
 <p>
-  <img src="https://img.shields.io/badge/Python-python?color=9cf&logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/R-R?color=lightblue&logo=R" alt="R Badge"/>
-  <img src="https://img.shields.io/badge/Octave-Octave?color=yellowgreen&logo=Octave" alt="Octave Badge"/>
-  <img src="https://img.shields.io/badge/VBA-VBA?color=yellow&logo=MicrosoftExcel" alt="VBA Badge"/>
-  <img src="https://img.shields.io/badge/QGIS-QGIS?color=green&logo=QGIS" alt="QGIS Badge"/>
-  <img src="https://img.shields.io/badge/Mapbox-Mapbox?color=black&logo=Mapbox" alt="Mapbox Badge"/>
-  <img src="https://img.shields.io/badge/Leaflet-Leaflet?color=green&logo=Leaflet" alt="Leaflet Badge"/>
-  <img src="https://img.shields.io/badge/Folium-Folium?color=yellow&logo=Folium" alt="Folium Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?color=brightgreen&logo=PostgreSQL" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-Jupyter?color=white&logo=Jupyter" alt="Jupyter Badge"/>
-  <img src="https://img.shields.io/badge/Markdown-Markdown?color=lightgrey&logo=Markdown" alt="Markdown Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?logo=postgresql&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white" alt="Mapbox"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet"/>
 </p>
 
-<hr/>
+## About Me
 
-## 🧠 About Me
+I'm **[Yohan Chang](https://sites.google.com/site/johnyohanchang/)**, a **Research Fellow at the Korea Research Institute for Human Settlements (KRIHS)**, working at the Mobility & AI Convergence Research Center. I received my Ph.D. in Civil and Environmental Engineering from the University of Missouri–Columbia, with a focus on transportation engineering.
 
-My name is <b><a href="https://www.krihs.re.kr/organization/view.es?mid=a20505010200&org_cd=1000006&seq=3429" target="_blank">Yohan Chang</a></b>, Ph.D. in Transportation Engineering (AI / Big Data / Visualization).<br><br>
-I am a Research Fellow at the Mobility & AI Convergence Research Center, part of the Geospatial & Infrastructure Research Division at <b>KRIHS</b> (Korea Research Institute for Human Settlements).
-Since 2022, I’ve been supporting <b><a href="https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html" target="_blank">OECD Geospatial Lab</a></b> Workstream #5.
-In addition, I serve as:
-- A committee member of the <b>Digital Division</b> in the <b><a href="https://www.innovation.go.kr/ucms/main/contents.do?menuNo=300209&tabNo=2" target="_blank">Open Government Partnership (OGP)</a></b> <i>(hosted by MoIS<sup>*</sup>)</i><br>
-- An advisory member of the <b>Public-Private Joint Data Analysis Council</b> <i>(MoIS<sup>*</sup>)</i><br>
-<sub><sup>*</sup>MoIS = Ministry of the Interior and Safety</sub><br>
+My work brings together **GeoAI, spatial data science, and policy research** to understand population movement, mobility, regional inequality, and infrastructure risks. With more than 15 years of experience across research and practice, I develop analytical workflows that connect large-scale administrative and mobility data with spatial models and policy interpretation.
 
-With over 15 years of diverse experience in <b>AI, Data Analytics, Data Science, GeoAI, Visualization</b>, and <b>policy-oriented modeling</b>, I’m passionate about interdisciplinary collaboration and exploring new research frontiers.
+I also teach **Urban Big Data Analysis and Geospatial Information System at Gachon University** and give lectures on AI and data literacy. My professional activities include participation in **[OECD Geospatial Lab](https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html) Workstream #5**, Korea's Open Government Partnership Committee, and the Ministry of the Interior and Safety's Public-Private Joint Data Analysis Council.
 
 <details>
-<summary><b>[🇰🇷 한글 소개 보기]</b></summary>
-<br/>
-<p style="font-size: 90%; color: #566573;">
-안녕하세요! 저는 국토연구원(KRIHS) 미래국토공간·인프라연구본부의 모빌리티·AI융복합연구센터에서 다양한 연구를 수행하고 있는 장요한입니다.<br><br>
-2022년부터는 <a href="https://www.oecd.org/en/about/programmes/the-oecd-laboratory-for-geospatial-analysis.html" target="_blank">OECD Geospatial Lab</a> Workstream #5 활동에 참여하고 있으며, 
-<a href="https://www.innovation.go.kr/en/main.do/" target="_blank">대한민국 열린정부위원회</a> 제4·5기 민간위원(디지털분과)으로도 활동 중입니다.
-또한, 행정안전부 주관의 민관합동 데이터분석협의체에서도 민간위원으로 참여하고 있습니다. 저는 15년 이상의 AI, 데이터 분석, 데이터 사이언스 경험을 바탕으로, ITS, GeoAI, 시각화, 정책 기반 모델링 등의 분야에서 융합적 연구와 협업을 이어가고 있습니다.
-</p>
+<summary><b>🇰🇷 한글 소개 보기</b></summary>
+
+국토연구원 **미래국토공간·인프라연구본부 모빌리티·AI융복합연구센터**의 연구위원 **장요한**입니다. 미국 미주리대학교 컬럼비아에서 토목환경공학 박사학위(교통공학 분야)를 받았습니다.
+
+15년 이상의 연구와 실무 경험을 바탕으로 **GeoAI와 공간 데이터 사이언스를 정책 연구에 연결**하고 있습니다. 인구이동과 지역 변화, 모빌리티와 접근성, 민원에 나타난 생활불편과 지역 불평등, 인프라 위험을 분석하며, 대규모 데이터를 정책적으로 해석하고 활용할 수 있는 모형과 지도, 대시보드를 개발합니다.
+
+가천대학교에서 **도시빅데이터 분석**과 **공간정보시스템**을 강의하며 AI와 데이터 문해력 교육에도 참여하고 있습니다. OECD Geospatial Lab Workstream #5, 대한민국 열린정부위원회, 행정안전부 민관합동 데이터분석협의체 활동을 통해 연구와 정책 현장의 연결을 이어가고 있습니다.
+
 </details>
 
+## Selected Visualizations
 
-<br>
+Explore selected public outputs from my research and data storytelling. Click an image or project link to learn more.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Population Mobility & GeoAI</h3>
+      <a href="https://ycanns.github.io/POP_MOVE_2026_MAPS/cnn-gat/">
+        <img src="https://raw.githubusercontent.com/ycanns/POP_MOVE_2026_MAPS/main/cnn-gat/explore-assets/maps/age20/2030_netflow.png" width="440" alt="2030 net migration allocation scenario for people in their twenties"/>
+      </a>
+      <p>Exploring population movement through spatial models, demographic constraints, and grid-based allocation scenarios.</p>
+      <p><sub>Preview: a 2030 scenario for people in their twenties, not an observed outcome or an official population projection.</sub></p>
+      <a href="https://ycanns.github.io/POP_MOVE_2026_MAPS/">Interactive dashboard</a> · <a href="https://github.com/ycanns/POP_MOVE_2026_MAPS">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Urban Data Stories: Sejong</h3>
+      <a href="https://github.com/ycanns/sejong-data-story">
+        <img src="https://raw.githubusercontent.com/ycanns/sejong-data-story/master/sj-flow-map.png" width="440" alt="2023 migration inflows to Sejong from other Korean provinces and metropolitan cities"/>
+      </a>
+      <p>Communicating population growth, migration, age structure, and commercial vacancy through official statistics.</p>
+      <p><sub>Preview: observed interregional inflows in 2023. Lines connect representative locations, not actual travel routes.</sub></p>
+      <a href="https://github.com/ycanns/sejong-data-story">Explore the data story</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Civil Complaints & Policy Monitoring</h3>
+      <p>Spatial visualizations of citizen-reported issues using civil complaint data from 2021–2023.</p>
+      <p>Connecting administrative data with place-based questions about everyday problems and public-service needs.</p>
+      <a href="https://github.com/ycanns/Monitoring">Explore the monitoring maps</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Transport Accessibility</h3>
+      <p>Comparing access to airports, passenger terminals, and railway stations by public transit/walking and passenger car.</p>
+      <p>Interactive regional outputs from the 2026 territorial monitoring work.</p>
+      <a href="https://github.com/ycanns/2026_TM#2026-territorial-monitoring">Explore the accessibility maps</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More visualizations</b></summary>
+
+- **[Migration Networks & Centrality](https://github.com/ycanns/KRIHS_Magazines/tree/master/Information/2024/Feb)** — Interpreting regional migration through graph theory and centrality measures.
+- **[Big Data Stories for Territorial Policy](https://github.com/ycanns/Graphs)** — Interactive visualizations accompanying the monthly KRIHS magazine.
+
+</details>
+
+## Areas of Expertise
+
+- **GeoAI & Spatiotemporal Modeling** — Spatial data integration, grid-based analysis, graph learning, and time-series modeling for population and urban dynamics.
+- **AI for Public Policy** — NLP and administrative-data analytics to interpret civil complaints, identify emerging issues, and examine regional disparities and public-service barriers.
+- **Mobility & Accessibility** — Transport network analysis, traffic simulation, naturalistic driving data, and accessibility assessment for urban and regional planning.
+- **Visualization & Data Literacy** — Interactive maps, dashboards, and data storytelling that make analytical evidence accessible to researchers, policymakers, and learners.
+
+<details>
+<summary><b>🇰🇷 한글 소개 보기</b></summary>
+
+- **GeoAI와 시공간 모델링**: 공간 데이터 융합, 격자 기반 분석, 그래프 학습과 시계열 모형을 활용한 인구 및 도시 변화 분석.
+- **공공정책을 위한 AI 분석**: 자연어처리와 행정데이터 분석을 통한 민원 해석, 이슈 탐지, 지역 격차와 공공서비스 이용 장벽 진단.
+- **모빌리티와 접근성**: 도시 및 지역계획을 지원하는 교통 네트워크 분석, 교통 시뮬레이션, 자연주행 데이터 분석과 접근성 평가.
+- **시각화와 데이터 문해력**: 연구자와 정책 담당자, 학습자가 분석 근거를 이해하고 활용하도록 지원하는 인터랙티브 지도, 대시보드와 데이터 스토리텔링.
+
+</details>
+
+## Current Research
+
+- **Population Migration & Regional Futures** — Developing graph-based and temporal models, linking migration with demographic projections, and exploring spatial allocation scenarios.
+- **Civil Complaints & Inclusive Policy** — Studying service barriers and areas where high vulnerability coincides with low complaint expression, using the results to identify candidates for further investigation.
+- **Infrastructure Risk & Nowcasting** — Developing methods to integrate complaints, news, weather, and road data for short-term risk monitoring and earlier response.
+- **3D Spatial Data & Urban Climate** — Exploring spatial data cubes, voxel-based representations, and AI methods for neighborhood heat exposure and environmental planning.
+
+<details>
+<summary><b>🇰🇷 한글 소개 보기</b></summary>
+
+- **인구이동과 지역의 미래**: 그래프 기반 모형과 시계열 모형을 개발하고, 인구이동과 장래인구추계를 연결하여 공간 배분 시나리오를 탐색합니다.
+- **민원과 지역 포용정책**: 공공서비스 이용 장벽과 함께, 객관적 취약도가 높지만 민원 표출이 적은 ‘조용한 취약지역’을 살펴봅니다. 분석 결과는 추가 검토와 현장 확인을 위한 후보지역 발굴에 활용합니다.
+- **인프라 위험과 나우캐스트**: 민원과 뉴스, 기상 및 도로 데이터를 결합하여 위험 신호를 초단기에 파악하고 사전 대응을 지원하는 방법론을 연구합니다.
+- **입체 공간데이터와 도시 기후**: 공간 데이터큐브와 복셀 기반 표현, AI를 활용하여 생활권 열 노출과 환경계획 지원 가능성을 탐색합니다.
+
+</details>
+
+## Methods & Tools
+
+| Area | Selected methods and tools |
+|---|---|
+| Analytical programming | Python, R, SQL, Jupyter; MATLAB/Octave and VBA |
+| Machine learning | CNN–LSTM, graph attention networks (GAT), random forests, XGBoost, autoencoders |
+| Text and model interpretation | Korean NLP, LLM-assisted text analysis, SHAP |
+| Spatial analysis and mapping | QGIS, GeoPandas, sf, PostgreSQL/PostGIS, Mapbox, Leaflet, Folium |
+| Visualization and applications | ggplot2, R Shiny, HTML-based maps and dashboards |
+| Transport modeling | VISSIM COM/API, EMME/2, TransCAD, DynusT |
+
+My research emphasizes **data quality, temporal validation, spatial comparability, and clear interpretation of uncertainty**. I aim to make the connection between model outputs and policy decisions explicit.
 
 ---
 
-## 💼 Areas of Expertise
+I welcome research collaboration on **GeoAI, population mobility, civil complaint analytics, infrastructure monitoring, and urban climate applications**.
 
-With deep interdisciplinary knowledge and technical fluency, I work across data, AI, and infrastructure systems in both research and real-world applications.
-
-- 🧠 **Machine Learning & AI**: Neural Networks, Random Forest, Deep Neural Networks (DNN), t-SNE, Reinforcement Learning  
-- 🌐 **Big Data & GeoAI**: Data fusion, geospatial analytics, spatio-temporal modeling, GeoAI, Foresting/Estimation
-- 🗺️ **GIS & Spatial Analysis**: Tools: QGIS, Mapbox, Leaflet, Folium, PostgreSQL/PostGIS  
-- 🚦 **Transportation Systems Modeling**: VISSIM (COM/API), EMME/2, TransCAD, DynusT, Naturalistic Driving Study (NDS)  
-- 📊 **Data Visualization & Tools**: Python, R, MATLAB, VBA, Jupyter, interactive dashboards (R Shiny)
-
-<details>
-<summary><b>[🇰🇷 한글 소개 보기]</b></summary>
-<br/>
-<p style="font-size: 90%; color: #566573;">
-학제 간 지식과 기술 역량을 바탕으로, AI, 공간(geospatial) 및 인프라 분야에서 연구와 실무를 연계한 다양한 분석 및 모델링을 수행하고 있습니다.
-</p>
-
-- 🧠 <b>머신러닝 및 AI</b>: 신경망, 랜덤 포레스트, 딥러닝(DNN), t-SNE, 강화학습 등<br/>
-- 🌐 <b>빅데이터 및 GeoAI</b>: 데이터 융합, 공간정보 분석, 시공간 모델링, GeoAI, 예측 등<br/>
-- 🗺️ <b>GIS 및 공간분석</b>: QGIS, Mapbox, Leaflet, Folium, PostgreSQL/PostGIS 등 도구 활용<br/>
-- 🚦 <b>교통 시스템 모델링</b>: VISSIM(COM/API), EMME/2, TransCAD, DynusT, Naturalistic Driving Study (NDS) 분석<br/>
-- 📊 <b>데이터 시각화 및 분석 도구</b>: Python, R, MATLAB, VBA, Jupyter, HTML, 대시보드(R Shiny) 및 웹 기반 시각화
-</details>
-<br>
-
----
-
-## 📘 Recent Focus
-
-My current work explores real-world applications of data science and GeoAI for smarter infrastructure, sustainable mobility, and public policy innovation.
-
-- 🔍 **Data-Driven Social Science & Policy Support**: Integrating machine learning with government data for issue monitoring and decision-making
-- 🚗 **Autonomous & Connected Mobility Systems**: Modeling intersections, travel behavior, and safety scenarios using large-scale simulations
-- 🧭 **GeoAI & Spatio-Temporal Modeling**: Applying AI to geospatial data for insights on urban dynamics, land use, and accessibility
-- 🧩 **Cross-Domain Collaboration**: Bridging transportation, computer science, GIS, and public administration
-- 🌐 **Interactive Visualization**: Creating storytelling tools using maps, dashboards, and data platforms for citizen and expert engagement
-
-<details>
-<summary><b>[🇰🇷 한글 한글 소개 보기]</b></summary>
-<br/>
-<p style="font-size: 90%; color: #566573;">
-최근에는 데이터 사이언스 및 GeoAI 기반 기술을 통해 스마트 인프라 구축, 지속가능한 모빌리티, 공공정책 혁신을 위한 다양한 연구를 진행하고 있습니다.
-</p>
-
-- 🔍 <b>데이터 기반 사회과학 및 정책 지원</b>: 머신러닝 기반의 민원 분석, 정책 이슈 모니터링, 민원 등 행정 데이터 통합 활용<br/>
-- 🚗 <b>자율주행 및 커넥티드 모빌리티 시스템</b>: 대규모 시뮬레이션을 통한 교차로 모델링, 주행 행태 분석, 시나리오 개발<br/>
-- 🧭 <b>GeoAI 및 시공간 모델링</b>: 도시 동태, 토지이용, 접근성 분석을 위한 공간정보 기반 AI 분석<br/>
-- 🧩 <b>학제 간 융합 연구</b>: 교통, 컴퓨터공학, 공간정보, 행정 분야의 협력 연구 추진<br/>
-- 🌐 <b>인터랙티브 시각화</b>: 지도, 대시보드, 데이터 플랫폼 등을 활용한 시각화
-</details>
-<br>
-
----
-
-📫 You are welcome to explore my repositories and reach out! 😊
+**[Personal website](https://sites.google.com/site/johnyohanchang/)** · **[Explore my repositories](https://github.com/ycanns?tab=repositories)**
